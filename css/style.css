@@ -29,6 +29,7 @@ h2 {
 
 
 /*HEADER*/
+
 header {
 	position: relative;
 	width: 100%;
@@ -138,6 +139,8 @@ p {
 	background-color: var(--light-grey-color);
 }
 
+/* Liens*/
+
 .button {
 	margin: 20px 0px;
 	padding: 28px 40px;
@@ -178,9 +181,13 @@ p {
 	border-color: var(--second-color);
 }
 
+/* Arrondi des liens*/
+
 .buttonRounded {
 	border-radius: 39px;
 }
+
+/* survole avec la souris*/
 
 .buttonHighlight:hover {
 	font-weight: 800;
