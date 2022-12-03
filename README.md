@@ -1,2 +1,2 @@
-# OpenClassromsP2
+# OpenClassroms Projet 2
 Projet 2
